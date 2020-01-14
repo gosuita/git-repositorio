@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace hola_mundo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string palabra;
+            palabra = "hola mundo";
+            Console.WriteLine(palabra);
+            Console.ReadLine();
+        }
+    }
+}
